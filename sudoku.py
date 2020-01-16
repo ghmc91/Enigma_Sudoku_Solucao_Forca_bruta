@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+'''Gustavo'''
 '''Implementação de um enigma sudoku e sua solução utilizando força bruta
 para executar: python3 sudoku.py'''
 
